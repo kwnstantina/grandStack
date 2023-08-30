@@ -1,0 +1,27 @@
+# Node.js related
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# Environment variables
+.env
+
+# Editor related
+.vscode/
+.idea/
+
+# Compiled output
+build/
+dist/
+
+# Dependencies and binaries
+*.log
+*.swp
+*.swo
+.DS_Store
+
+# Ignore development-only files
+*.spec.js
+*.test.js
+*.test.ts
